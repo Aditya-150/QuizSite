@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header {
   background-color: #218380;
@@ -10,10 +11,19 @@ main {
   border-radius: 20px;
   box-shadow: 5px 5px #E5E5E5;
   margin-top: 150px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 140px;
+  margin-right: 140px;
   padding: 30px;
   border-style: solid;
   border-width: 3px;
   border-color: #E5E5E5;
+}
+button {
+  background-color: #218380;
+  color: #ffffff;
+  padding: 5px;
+  border-radius: 5px;
+}
+main {
+  line-height: 40px;
 }
