@@ -13,7 +13,10 @@ main {
   margin-top: 150px;
   margin-left: 140px;
   margin-right: 140px;
-  padding: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   border-style: solid;
   border-width: 3px;
   border-color: #E5E5E5;
